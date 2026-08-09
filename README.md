@@ -101,6 +101,23 @@ No activity tracked
   <img src="./assets/roadmap.svg" width="100%" alt="Development journey from 2020 to the present" />
 </div>
 
+## Live projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🇵🇭 Salin PH</h3>
+      <p>A Philippine dialect translation experience connecting language, local culture, and modern application development.</p>
+      <a href="https://info-salinph.vercel.app/"><img src="https://img.shields.io/badge/OPEN_SALIN_PH-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Salin PH" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 Cheetools</h3>
+      <p>The official home for the Cheetools Android gaming utility, including product information, setup guidance, privacy details, and downloads.</p>
+      <a href="https://cheetools-info.vercel.app/"><img src="https://img.shields.io/badge/OPEN_CHEETOOLS-14b8a6?style=for-the-badge&logo=android&logoColor=white" alt="Open Cheetools" /></a>
+    </td>
+  </tr>
+</table>
+
 ## Current direction
 
 ```text
@@ -112,7 +129,8 @@ MISSION   Build useful software for real people and contribute reusable work to 
 
 <div align="center">
   <a href="https://github.com/SowjOcaya?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
-  <a href="https://greymeng.vercel.app"><img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="View live project" /></a>
+  <a href="https://info-salinph.vercel.app/"><img src="https://img.shields.io/badge/SALIN_PH-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Salin PH" /></a>
+  <a href="https://cheetools-info.vercel.app/"><img src="https://img.shields.io/badge/CHEETOOLS-14b8a6?style=for-the-badge&logo=android&logoColor=white" alt="Visit Cheetools" /></a>
 </div>
 
 <br/>
