@@ -81,24 +81,10 @@ A production-oriented, AI-assisted anti-cheat architecture for **open.mp / SA-MP
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SowjOcaya&bg_color=00000000&color=a78bfa&line=2dd4bf&point=f97316&area=true&hide_border=true&custom_title=Contribution%20Timeline" alt="Sowj's contribution activity graph" />
 </div>
 
-## Recent coding activity
-
-<!--START_SECTION:waka-->
-
-```text
-From: 01 August 2026 - To: 08 August 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 ## Build timeline
 
 <div align="center">
-  <img src="./assets/roadmap.svg" width="100%" alt="Development journey from 2020 to the present" />
+  <img src="./assets/roadmap-2021.svg" width="100%" alt="Development journey from HTML foundations in 2021 to full-stack and Android engineering" />
 </div>
 
 ## Live projects
@@ -136,5 +122,5 @@ MISSION   Build useful software for real people and contribute reusable work to 
 <br/>
 
 <div align="center">
-  <sub>WakaTime activity updates automatically through GitHub Actions. Private repository names and source details are never displayed.</sub>
+  <sub>Private repository names and source details are never displayed.</sub>
 </div>
