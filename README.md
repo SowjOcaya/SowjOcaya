@@ -89,6 +89,20 @@ A production-oriented, AI-assisted anti-cheat architecture for **open.mp / SA-MP
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SowjOcaya&bg_color=00000000&color=a78bfa&line=2dd4bf&point=f97316&area=true&hide_border=true&custom_title=Contribution%20Timeline" alt="Sowj's contribution activity graph" />
 </div>
 
+## Recent coding activity
+
+<!--START_SECTION:waka-->
+```text
+WakaTime is connected. Coding statistics will appear here after the first tracked editor activity.
+```
+<!--END_SECTION:waka-->
+
+## GitHub achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SowjOcaya&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="Sowj Ocaya's GitHub achievements" />
+</div>
+
 ## Build timeline
 
 <div align="center">
