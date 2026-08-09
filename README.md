@@ -47,14 +47,6 @@ A production-oriented, AI-assisted anti-cheat architecture for **open.mp / SA-MP
 
 > The implementation is kept private, so this profile describes the architecture without publishing protected server code or credentials.
 
-## Live developer dashboard
-
-<!-- Generated daily by lowlighter/metrics. The fallback cards below remain visible until the first workflow run completes. -->
-
-<div align="center">
-  <img width="98%" src="./github-metrics.svg" alt="Sowj Ocaya's live GitHub metrics" />
-</div>
-
 ## Stack at a glance
 
 <div align="center">
@@ -103,12 +95,6 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-## GitHub achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SowjOcaya&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="Sowj Ocaya's GitHub achievements" />
-</div>
-
 ## Build timeline
 
 <div align="center">
@@ -132,5 +118,5 @@ MISSION   Build useful software for real people and contribute reusable work to 
 <br/>
 
 <div align="center">
-  <sub>Live metrics update automatically through GitHub Actions. Private repository names and source details are never displayed.</sub>
+  <sub>WakaTime activity updates automatically through GitHub Actions. Private repository names and source details are never displayed.</sub>
 </div>
